@@ -39,6 +39,8 @@ if __name__ == "__main__":
     for placeholder in placeholders:
         user_words.append(input(f"Enter a {placeholder}: "))
     game_result = merge(words, user_words)
+    f = open("assets/game_results.txt", "w")
+    f.write(game_result)
     print("********YOUR MADLIBS says:************")
     print(game_result)
 
