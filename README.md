@@ -1,4 +1,4 @@
-Lab4 PR: https://github.com/batoolmalkawii/madlib-cli/pull/1
+Lab4 PR: https://github.com/batoolmalkawii/madlib-cli/pull/2
 
 This is MADLIB game, which includes three functions: 
 
